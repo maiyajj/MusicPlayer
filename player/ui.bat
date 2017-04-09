@@ -1,0 +1,1 @@
+pyuic4 player.ui>player.py
